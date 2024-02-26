@@ -1,3 +1,3 @@
-# Intro-07-Java-TryCatch
+# Unit1-02-Java-Einstein
 
-[![Mr Coxall's Super Linter](https://github.com/ICS4U-Programming-TamerZ/Intro-07-Java-TryCatch/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICS4U-Programming-TamerZ/Intro-07-Java-TryCatch/actions/)
+[![Mr Coxall's Super Linter](https://github.com/ICS4U-Programming-TamerZ/Unit1-02-Java-Einstein/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICS4U-Programming-TamerZ/Unit1-02-Java-Einstein/actions/)
